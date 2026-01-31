@@ -1,1 +1,1 @@
-java öğrenirken yaptığım projeleri yüklemek için
+java öğrenim yolculuğumu belgelendirmek ve projelerimi saklamakm için açtığım repositories
